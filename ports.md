@@ -1,8 +1,8 @@
-# 🔌 Component Port Standards
+# Component Port Standards
 
 Bigstone components communicate using standardized I/O ports. These ports follow strict naming conventions to ensure clarity, compatibility, and automation across the ecosystem.
 
-## 📦 Port Naming Convention
+## Port Naming Convention
 
 All ports must be named using the following format:
 
@@ -12,7 +12,7 @@ All ports must be named using the following format:
 
 ```
 
-### 🔠 Segments
+### Segments
 
 | Segment      | Description                              | Example             |
 |--------------|------------------------------------------|---------------------|
@@ -23,7 +23,7 @@ All ports must be named using the following format:
 
 > Example: `STP-I-CLK` = a **Standard (binary) input port** for the **clock signal**.
 
-### 🔁 Port Type Definitions
+### Port Type Definitions
 
 | Port Type | Full Name               | Signal Type   | Typical Use                |
 |-----------|-------------------------|---------------|----------------------------|
@@ -34,7 +34,7 @@ Each component must define all active ports in its documentation using this nami
 
 ---
 
-## 🎛️ Port Layout Guidelines
+## Port Layout Guidelines
 
 - **All ports must connect via the 16×16×16 grid interface** using clearly marked dust or interface blocks.
 - **Inputs and outputs must be consistently placed** according to Bigstone's wiring standards:
