@@ -32,6 +32,6 @@ Some components however, such as Bigstone repeaters, are directional. These will
 
 This makes it easy for you to chain components or hook them up to any other Bigstone element.
 
-If you are attempting to make your own Bigstone components compatible with mine, werecommend that you follow the same system, and also download our world with all of our Bigstone components and do some testing between them to ensure compatibility.
+If you are attempting to make your own Bigstone components compatible with mine, we recommend that you follow the same system, and also download our world with all of our Bigstone components and do some testing between them to ensure compatibility.
 
 By all means though, feel free to come up with your own standard if you so wish! That's the great thing about Bigstone: you have the freedom to do almost anything with your Bigstone. Just make sure to let others know what system you use.
